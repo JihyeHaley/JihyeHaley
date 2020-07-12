@@ -3,7 +3,7 @@
 Welcome to visit my Github Story. Hope you will look for useful imformation :)
 I am super fan of Python and Django. Plz go to the TIL Repository and try to click Python section! 
 I will study at Graduate School of Communication at Yonsei University for Design Intelligence.
-Please visit [my_github.io](jihyehaley.github.io) for lookking around my portfolio. You can see my life and work that i've done.
+Please visit [jihyehaley.github.io](https://jihyehaley.github.io) for lookking around my portfolio. You can see my life and work that i've done.
 
 It will be Updated Soon! 🦖
 
