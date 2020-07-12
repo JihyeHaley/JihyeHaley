@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi It's Jihye Here! 👋
+
+Welcome to visit my Github Story. Hope you will look for useful imformation :)
+I am super fan of Python and Django. Plz go to the TIL Repository and try to click Python section! 
+I will study at Graduate School of Communication at Yonsei University for Design Intelligence.
+Please visit [my_github.io](jihyehaley.github.io) for lookking around my portfolio. You can see my life and work that i've done.
+
+It will be Updated Soon! 🦖
+
+If you have any questions, feel free to contact me ! Thank you💓
 
 <!--
 **JihyeHaley/JihyeHaley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
