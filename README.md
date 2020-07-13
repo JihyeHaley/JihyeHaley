@@ -11,7 +11,7 @@ If you have any questions, feel free to contact me ! Thank you💓
 
  
 
-**🧸 Commit Schedule **
+🧸 **Commit Schedule **
 
 - **TIL** : Everyday
 - **Books** : Every Sunday 21:00
