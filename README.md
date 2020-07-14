@@ -7,16 +7,12 @@ Please visit [jihyehaley.github.io](https://jihyehaley.github.io) for looking ar
 
 I will re-announce when and what kind of my respository will be updated! 🦖
 
-If you have any questions, feel free to contact me ! Thank you💓
-
- 
+If you have any questions, feel free to contact me (jihaley@yonsei.ac.kr) ! Thank you💓 
 
 🧸 **Commit Schedule**
 
 - **TIL** : Everyday
 - **Books** : Every Sunday 21:00
-
-
 
 📢 **Announce** 
 
