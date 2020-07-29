@@ -16,7 +16,12 @@ If you have any questions, feel free to contact me (jihaley@yonsei.ac.kr) ! Than
 
 📢 **Announce** 
 
-- **Focusing on studying 🇯🇵Japanese**.. Commits are not as many as last week.  :(
+- 7/28 ~ 개강 전 
+  - Python mdn
+  - `데이터과학분석` 을 위한 codeacademy < -😽 so excited!
+- 日本語の勉強するのを毎日 するんです！
+- Studying Japanese Everyday :)
+- 일본어 공부 매일하는 중! 
 
 
 
