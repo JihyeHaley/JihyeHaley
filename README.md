@@ -14,18 +14,17 @@ If you have any questions, feel free to contact me (jihaley@yonsei.ac.kr) ! Than
 - **TIL** : Everyday
 - **Books** : Every Sunday 21:00
 
-📢 **Announce** 
 
-- 7/28 ~ 개강 전 
-  - Python mdn
-  - `데이터과학분석` 을 위한 codeacademy < -😽 so excited!
-- 日本語の勉強するのを毎日 するんです！
-- Studying Japanese Everyday :)
-- 일본어 공부 매일하는 중! 
+
+[website]: https://jihyehaley.github.io
+[instagram]: https://instagram.com/jihyeeaaly_0321
+[instagram]: https://instagram.com/jihaley_code_20
 
 
 
+![Jihye's github stats](https://github-readme-stats.vercel.app/api?username=jihyehaley&show_icons=true&theme=vue)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihyehaley&layout=compact)](https://github.com/jihyehaley/TIL)
 
 
 
@@ -45,3 +44,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--📢 **Announce** 
+
+- 7/28 ~ 개강 전 
+  - Python mdn
+  - `데이터과학분석` 을 위한 codeacademy < -😽 so excited!
+- 日本語の勉強するのを毎日 するんです！
+- Studying Japanese Everyday :)
+- 일본어 공부 매일하는 중! -->
