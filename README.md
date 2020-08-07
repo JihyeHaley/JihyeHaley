@@ -14,7 +14,7 @@ If you have any questions, feel free to contact me (jihaley@yonsei.ac.kr) ! Than
 - **TIL** : Everyday
 - **Books** : Every Sunday 21:00
 
-
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Jihyehaley&show_icons=true"/>
 
 [website]: https://jihyehaley.github.io
 [instagram]: https://instagram.com/jihyeeaaly_0321
@@ -23,8 +23,6 @@ If you have any questions, feel free to contact me (jihaley@yonsei.ac.kr) ! Than
 
 
 ![Jihye's github stats](https://github-readme-stats.vercel.app/api?username=jihyehaley&show_icons=true&theme=vue)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihyehaley&layout=compact)](https://github.com/jihyehaley/TIL)
 
 
 
@@ -53,3 +51,6 @@ Here are some ideas to get you started:
 - 日本語の勉強するのを毎日 するんです！
 - Studying Japanese Everyday :)
 - 일본어 공부 매일하는 중! -->
+
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihyehaley&layout=compact)](https://github.com/jihyehaley/TIL)-->
+
