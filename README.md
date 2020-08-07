@@ -14,8 +14,6 @@ If you have any questions, feel free to contact me (jihaley@yonsei.ac.kr) ! Than
 - **TIL** : Everyday
 - **Books** : Every Sunday 21:00
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Jihyehaley&show_icons=true"/>
-
 [website]: https://jihyehaley.github.io
 [instagram]: https://instagram.com/jihyeeaaly_0321
 [instagram]: https://instagram.com/jihaley_code_20
