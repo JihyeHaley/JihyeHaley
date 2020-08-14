@@ -13,10 +13,19 @@ If you have any questions, feel free to contact me (jihaley@yonsei.ac.kr) ! Than
 
 - **TIL** : Everyday
 - **Books** : Every Sunday 21:00
+- **CS50** : Every Friday 21:00
+- **Foother** : When I succeed to publish Heroku :) (Probably beginning of September)
+
+🍭 **Currently Studying**
+
+- **Algorithm** :  Using [SWEA](https://swexpertacademy.com/main/main.do) as basic problems (Everyday at least 2 hours)
+- **Python** : Reading Python Documentation (SOS for import fibo...)
+- **Computer Science** : Studying with members from EDWITH
+- **Objects** : 토비의 스프링 3.1(Java), 자바의 신(Java) 
 
 [website]: https://jihyehaley.github.io
 [instagram]: https://instagram.com/jihyeeaaly_0321
-[instagram]: https://instagram.com/jihaley_code_20
+[instagram]: https://instagram.com/ux.design.jihye.0321
 
 
 
