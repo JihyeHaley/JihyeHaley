@@ -18,7 +18,7 @@ If you have any questions, feel free to contact me (jihaley@yonsei.ac.kr) ! Than
 
 🍭 **Currently Studying**
 
-- **Algorithm** :  Using [SWEA](https://swexpertacademy.com/main/main.do) as basic problems (Everyday at least 2 hours)
+- **Algorithm** :  Using [SWEA](https://swexpertacademy.com/main/main.do) as basic studying material (Everyday at least 2 hours)
 - **Python** : Reading Python Documentation (SOS for import fibo...)
 - **Computer Science** : Studying with members from EDWITH
 - **Objects** : 토비의 스프링 3.1(Java), 자바의 신(Java) 
