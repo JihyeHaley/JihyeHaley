@@ -15,6 +15,7 @@ If you have any questions, feel free to contact me (jihaley@yonsei.ac.kr) ! Than
 - **Books** : Every Sunday 21:00
 - **CS50** : Every Friday 21:00
 - **Foother** : When I succeed to publish Heroku :) (Probably beginning of September)
+- **Portoflio** : App UI will be updated on Aug. 23 ~ 24 
 
 🍭 **Currently Studying**
 
