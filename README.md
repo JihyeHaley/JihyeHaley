@@ -1,4 +1,4 @@
-### Hi It's Jihye Here! 👋🤓
+### Hi It's Jihye Here! 👋🏼🤓
 
 Welcome to visit my Github Story. Hope you will look for useful imformation :)
 I am super fan of Python and Django. If anyone who visits my website first, plz go to the [TIL Repository](JihyeHaley/TIL) and try to click Python section! You can see how I am studying and what kind of skills that I've learned. I have always given me questions 'why,' which is a step for looking forward to which thing I do not know.  In this way, I am not anymore a little freshman, but never stop challenging and dreaming. 😉
