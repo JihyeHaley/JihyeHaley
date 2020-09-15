@@ -12,7 +12,7 @@ If you have any questions, feel free to contact me (jihaley@yonsei.ac.kr) ! Than
 
 
 
-🧸 **Commit Schedule**
+🧸 **Commit Schedule** *(Until 24th, busy for preparing '인생교양 contest')* 
 
 - **TIL** : Everyday
 - **Books** : Every Saturday 21:00
