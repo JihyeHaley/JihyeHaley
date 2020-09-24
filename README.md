@@ -23,10 +23,12 @@ If you have any questions, feel free to contact me (jihaley@yonsei.ac.kr) ! Than
 
 🍭 **Currently Studying**
 
+- **Python** : Reading Python Documentation, done Codecademy *(Learn Python **Pro**)* <- Completed🎉
+- **NLP** : Codecademy (*Learn Natural Language Processing* **Pro**) ☀️
+- **Regular Expression** : Codecademy (*Learn the Basics of Regular Expression*) <- Completed🎉
 - **Algorithm** :  Using [SWEA](https://swexpertacademy.com/main/main.do) as basic studying material (Everyday at least 2 hours)
-- **Python** : Reading Python Documentation, done Codecademy!
 - **Pandas, Numpy** : Reading  Documentation <- like R
-- **Javascript** : Codecademy
+- **Javascript** : Codecademy (Building interactive Javascript Website **Pro**) ☀️
 - **Computer Science** : Studying with members from EDWITH
 - **Objects** : 토비의 스프링 3.1(Java), 자바의 신(Java) 
 
