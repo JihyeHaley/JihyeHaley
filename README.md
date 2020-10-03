@@ -1,34 +1,32 @@
 ### Hi It's Jihye Here! 👋🏼🤓
 
-Welcome to visit my Github Story. Hope you will look for useful imformation :)
-I am super fan of Python and Django. If anyone who visits my website first, plz go to the [TIL Repository](JihyeHaley/TIL) and try to click Python section! You can see how I am studying and what kind of skills that I've learned. I have always given me questions 'why,' which is a step for looking forward to which thing I do not know.  In this way, I am not anymore a little freshman, but never stop challenging and dreaming. 😉
-I am preparing to be a student of **Graduate School  at Yonsei University for Design Intelligence**.🍑 The most familiar language and platform are Python and Django eventhough I used Java for 7 months. Since the concept of Objects are not easily understood, I am in using more time on reading Java books more than watching instagram. And most of my followers and followins are UI/UX Designer or Developer and researchs about Artificial Intelligence. With my lots of experience like studying English myself and playting the piano for 17 years, I am enjoying  'hard time' which leads me to  a person who I dreamed and designed.' 
+Welcome to visit my Github Story. Hope you will look for useful imformation :) I am super fan of Python and Django. If anyone who visits my website first, plz go to the [TIL Repository](https://github.com/JihyeHaley/JihyeHaley/blob/master/JihyeHaley/TIL) and try to click Python section! You can see how I am studying and what kind of skills that I've learned. I have always given me questions 'why,' which is a step for looking forward to which thing I do not know. In this way, I am not anymore a little freshman, but never stop challenging and dreaming. 😉 I am preparing to be a student of **Graduate School at Yonsei University for Design Intelligence**.🍑 The most familiar language and platform are Python and Django eventhough I used Java for 7 months. Since the concept of Objects are not easily understood, I am in using more time on reading Java books more than watching instagram. And most of my followers and followins are UI/UX Designer or Developer and researchs about Artificial Intelligence. With my lots of experience like studying English myself and playting the piano for 17 years, I am enjoying 'hard time' which leads me to a person who I dreamed and designed.'
 
-Please visit [jihyehaley.github.io](https://jihyehaley.github.io) for looking around Jihye's portfolio. You can see my life and work that i've done. It will be renewled, but hope you enjoy my trip.
+Please visit [jihyehaley.github.io](https://jihyehaley.github.io/) for looking around Jihye's portfolio. You can see my life and work that i've done. It will be renewled, but hope you enjoy my trip.
 
 I will re-announce when and what kind of my respository will be updated! 🦖
 
-If you have any questions, feel free to contact me (jihaley@yonsei.ac.kr) ! Thank you💓 
+If you have any questions, feel free to contact me ([jihaley@yonsei.ac.kr](mailto:jihaley@yonsei.ac.kr)) ! Thank you💓
 
-
-
-🧸 **Commit Schedule** *(Until 24th, busy for preparing '인생교양 contest')* 
+🧸 **Commit Schedule** *(Until 24th, busy for preparing '인생교양 contest')*
 
 - **TIL** : Everyday
 - **Books** : Every Saturday 21:00
 - **Foother** : When I succeed to publish Heroku :) (Probably beginning of September)
-- **Portoflio** : App UI will be updated on Sep. 23 ~ 24 
-
-
+- **Portoflio** : 
+  - **github.io ver**: Updated on October 3 (very tiny changed.. contents and work status)
+  - **single domain ver**: Will buy a server on November (With new UI💪🏼)
 
 🍭 **Currently Studying**
 
-- **Algorithm** :  Using [SWEA](https://swexpertacademy.com/main/main.do) as basic studying material (Everyday at least 2 hours)
-- **Python** : Reading Python Documentation, done Codecademy!
-- **Pandas, Numpy** : Reading  Documentation <- like R
-- **Javascript** : Codecademy
+- **Python** : Reading Python Documentation, done Codecademy *(Learn Python **Pro**)* <- Completed🎉
+- **NLP** : Codecademy (*Learn Natural Language Processing* **Pro**) ☀️
+- **Regular Expression** : Codecademy (*Learn the Basics of Regular Expression*) <- Completed🎉
+- **Algorithm** : Using [SWEA](https://swexpertacademy.com/main/main.do) as basic studying material (Everyday at least 2 hours)
+- **Pandas, Numpy** : Reading Documentation <- like R
+- **Javascript** : Codecademy (Building interactive Javascript Website **Pro**) ☀️
 - **Computer Science** : Studying with members from EDWITH
-- **Objects** : 토비의 스프링 3.1(Java), 자바의 신(Java) 
+- **Objects** : 토비의 스프링 3.1(Java), 자바의 신(Java)
 
 [website]: https://jihyehaley.github.io
 [instagram]: https://instagram.com/jihyeeaaly_0321
