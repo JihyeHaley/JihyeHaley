@@ -22,8 +22,13 @@ If you have any questions, feel free to contact me ([jihaley@yonsei.ac.kr](mailt
 - **Python** : Reading Python Documentation, done Codecademy *(Learn Python **Pro**)* <- Completed🎉
 - **NLP** : Codecademy (*Learn Natural Language Processing* **Pro**) ☀️
 - **Regular Expression** : Codecademy (*Learn the Basics of Regular Expression*) <- Completed🎉
+<<<<<<< HEAD
 - **Algorithm** : Using [SWEA](https://swexpertacademy.com/main/main.do) as basic studying material (Everyday at least 2 hours)
 - **Pandas, Numpy** : Reading Documentation <- like R
+=======
+- **Algorithm** :  Using [SWEA](https://swexpertacademy.com/main/main.do) as basic studying material (Everyday at least 2 hours)
+- **Pandas, Numpy** : Reading  Documentation <- like R
+>>>>>>> 241b4f77943d33a0f916ec0ec92506eeb008e268
 - **Javascript** : Codecademy (Building interactive Javascript Website **Pro**) ☀️
 - **Computer Science** : Studying with members from EDWITH
 - **Objects** : 토비의 스프링 3.1(Java), 자바의 신(Java)
