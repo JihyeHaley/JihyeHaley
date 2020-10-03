@@ -1,8 +1,8 @@
-### Hi It's Jihye Here! 👋🏼
+### Hi It's Jihye Here! 👋🏼🤓
 
-👩🏻‍🎓   I always ask myself many "why" question marks in order to fulfill lack of my ability. I am never afraid of having any failed experience since it would be one of the chances I can see what is wrong and what kind of things I should develope. KEEP TRYING. It is the way I make my life🤓
+👩🏻‍🎓   I always ask myself many "why" question marks in order to fulfill lack of my ability. I am **never afraid of having any failed experience** since it would be one of the chances I can see what is wrong and what kind of things I should develope. **KEEP TRYING**. It is the way I make my life. 
 
-🌱  <u>*So, there's nothing better than commit!*</u> 
+🌱  <u>*So, there's nothing better than **"commit!"***</u> 
 
 Welcome to visit my Github Story. Hope you will look for useful imformation :) I am super fan of Python and Django. If anyone who visits my website first, plz go to the [TIL Repository](https://github.com/JihyeHaley/JihyeHaley/blob/master/JihyeHaley/TIL) and try to click Python section! You can see how I am studying and what kind of skills that I've learned. I have always given me questions 'why,' which is a step for looking forward to which thing I do not know. In this way, I am not anymore a little freshman, but never stop challenging and dreaming. 😉 I am preparing to be a student of **Graduate School at Yonsei University for Design Intelligence**.🍑 The most familiar language and platform are Python and Django eventhough I used Java for 7 months. Since the concept of Objects are not easily understood, I am in using more time on reading Java books more than watching instagram. And most of my followers and followins are UI/UX Designer or Developer and researchs about Artificial Intelligence. With my lots of experience like studying English myself and playting the piano for 17 years, I am enjoying 'hard time' which leads me to a person who I dreamed and designed.'
 
