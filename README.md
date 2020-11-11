@@ -36,7 +36,7 @@ If you have any questions, feel free to contact me ([jihaley@yonsei.ac.kr](mailt
 - **Objects** : 토비의 스프링 3.1(Java), 자바의 신(Java)
 
 [website]: https://jihyehaley.github.io
-[instagram]: https://instagram.com/jihyeeaaly_0321
+[instagram]: https://instagram.com/haleyjh_0321
 [instagram]: https://instagram.com/ux.design.jihye.0321
 
 
