@@ -4,7 +4,7 @@
 
 🌱  There's nothing better than <u>***"commit!"***</u> 
 
-🌱 <u>***"Showing"***</u> myself in the repositories is one of ways to show who I am and I love it 👍🏼
+🌱 <u>***"Showing"***</u> myself in the repositories is one of ways to show who I am.
 
 Welcome to visit my Github Story. Hope you will look for useful imformation :) I am super fan of Python and Django. If anyone who visits my website first, plz go to the [TIL Repository](https://github.com/JihyeHaley/JihyeHaley/TIL) and try to click Python section! You can see how I am studying and what kind of skills that I've learned. I have always given me questions 'why,' which is a step for looking forward to which thing I do not know. In this way, I am not anymore a little freshman, but never stop challenging and dreaming. 😉 So, I am currently living in **<u>Dream Haus [한화생명 드림하우스](https://dreamin.career/aboutdreamhaus)</u>** whose type of living is share house with 22 people! There were too many competitiors and I cannot forget the moment I've got a call from managers to notify my permission. I'm still excited and feel happy since I am one of the Hauers. As soon as I mastered to redesign my github.io with **Jekyll**, I will write my own stories happening in my sweet home. Like the name of home, everyday is like a single dream. And, importantly, I am preparing to be a student of <u>**Graduate School at Yonsei Univeristy Underwood Division Department of Innovation Design Innovation**</u> (which was Graduate School at Yonsei University for Design Intelligence).🍑 
 
