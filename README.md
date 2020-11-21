@@ -16,7 +16,9 @@ I will re-announce when and what kind of my respository will be updated! 🦖
 
 If you have any questions, feel free to contact me ([jihaley@yonsei.ac.kr](mailto:jihaley@yonsei.ac.kr)) ! Thank you💓
 
-🧸 **Commit Schedule** *(Until 24th, busy for preparing '인생교양 contest')*
+<br>
+
+🧸 **Commit Schedule**
 
 - **TIL** : Everyday
 - **Books** : Every Saturday 21:00
@@ -24,16 +26,24 @@ If you have any questions, feel free to contact me ([jihaley@yonsei.ac.kr](mailt
 - **Portoflio** : 
   - new**github.io ver**: Updated on December with **Jekyll** <- like blog
 
+<br>
+
 🍭 **Currently Studying**
 
+* **Japanese** : for NLP Processing
+* **Chinese** : for developing Chinese Character Education Platform(iOS) (lanunching on May 2021)
+
 - **Python** : Reading Python Documentation, done Codecademy *(Learn Python **Pro**)* <- Completed🎉
-- **NLP** : Codecademy (*Learn Natural Language Processing* **Pro**) ☀️
+- **NLP** : Codecademy (*Learn Natural Language Processing* **Pro**) <- Completed🎉
+  - NIA_CORPUS
+  - NIA_NER
+  - HTML_TAG_EXTRACT using **Pandas, Numpy** 
 - **Regular Expression** : Codecademy (*Learn the Basics of Regular Expression*) <- Completed🎉
-- **Algorithm** : Using [SWEA](https://swexpertacademy.com/main/main.do) as basic studying material (Everyday at least 2 hours)
-- **Pandas, Numpy** : Reading Documentation <- like R
-- **Javascript** : Codecademy (Building interactive Javascript Website **Pro**) ☀️
+- **Algorithm** : Using [SWEA](https://swexpertacademy.com/main/main.do) as basic studying material with Python, C++
+- **Javascript** : Codecademy (Building interactive Javascript Website **Pro**) 
 - **Computer Science** : Studying with members from EDWITH
-- **Objects** : 토비의 스프링 3.1(Java), 자바의 신(Java)
+- **Objects** : 토비의 스프링 3.1(Java)
+-  **Books** : 창조력 코드, UI/UX 디자인 이론과 실습 with Adobe XD
 
 [website]: https://jihyehaley.github.io
 [instagram]: https://instagram.com/haleyjh_0321
