@@ -43,7 +43,7 @@ If you have any questions, feel free to contact me ([jihaley@yonsei.ac.kr](mailt
 - **Javascript** : Codecademy (Building interactive Javascript Website **Pro**) 
 - **Computer Science** : Studying with members from EDWITH
 - **Objects** : 토비의 스프링 3.1(Java)
--  **Books** : 창조력 코드, UI/UX 디자인 이론과 실습 with Adobe XD
+-  **Books** : 창조력 코드, UI/UX 디자인 이론과 실습 with Adobe XD, 팀 개발을 위한 Git-GitHub 시작하기
 
 [website]: https://jihyehaley.github.io
 [instagram]: https://instagram.com/haleyjh_0321
