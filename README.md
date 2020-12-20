@@ -21,8 +21,8 @@ If you have any questions, feel free to contact me ([jihaley@yonsei.ac.kr](mailt
 🧸 **Commit Schedule**
 
 - **TIL** : Everyday
-- **Books** : Every Saturday 21:00
-- **Foother** : When I succeed to publish Heroku :) (Probably beginning of September)
+- **Books** : Every Saturday 21:00 after 2021
+- **Foother** : When I succeed to publish Heroku :) (Probably beginning of January)
 - **Portoflio** : 
   - new**github.io ver**: Updated on December with **Jekyll** <- like blog
 
