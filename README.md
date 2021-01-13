@@ -34,12 +34,11 @@ If you have any questions, feel free to contact me ([jihaley@yonsei.ac.kr](mailt
 * **Python** : Currently using this language the most 👍🏼
 
 * **NLP** : Codecademy (*Learn Natural Language Processing* **Pro**) <- Completed🎉
-
-- NIA_CORPUS
-- NIA_NER
-- HTML_TAG_EXTRACT using Pandas
-- Japanese Parsing
-- *✏️New Research with Doctors from SUN Machine Learning Labotary*
+  * NIA_CORPUS
+  * NIA_NER
+  * HTML_TAG_EXTRACT using Pandas
+  * Japanese Parsing
+  * *✏️New Research with Doctors from SUN Machine Learning Labotary*
 
 **Regular Expression** : Codecademy (*Learn the Basics of Regular Expression*) <- Completed🎉
 
