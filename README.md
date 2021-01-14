@@ -25,7 +25,7 @@ If you have any questions, feel free to contact me ([jihaley@yonsei.ac.kr](mailt
 - **Portoflio** : 
   - **newgithub.io ver**: Updated on December with **Jekyll** <- like blog
 
-<br>
+
 
 🍭 **Currently Studying**
 
@@ -38,7 +38,7 @@ If you have any questions, feel free to contact me ([jihaley@yonsei.ac.kr](mailt
   * NIA_NER
   * HTML_TAG_EXTRACT using Pandas
   * Japanese Parsing
-  * *✏️New Research with Doctors from SUN Machine Learning Labotary*
+  * *✏️ New Research with Doctors from SNU Machine Learning Labotary*
 
 **Regular Expression** : Codecademy (*Learn the Basics of Regular Expression*) <- Completed🎉
 
