@@ -24,7 +24,7 @@ If you have any questions, feel free to contact me ([jihaley@yonsei.ac.kr](mailt
 - **Foother** : When I succeed to publish Heroku :) (Probably beginning of January)
 - **Portoflio** : 
   - **newgithub.io ver**: Updated on December with **Jekyll** <- like blog
-  - I am not sure when I can change jekyll.. 
+  - I am not sure when I can change to jekyll.. 
 
 
 🍭 **Currently Studying**
